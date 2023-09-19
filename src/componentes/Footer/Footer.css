@@ -1,0 +1,21 @@
+.footer {
+    background: #6278F7;
+    color: #FFF;
+    padding: 80px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.lista ul li {
+    display: inline-block;
+    margin-right: 32px;
+}
+
+.lista ul li:last-child {
+    margin-right: 0;
+}
+
+.paragrafo {
+    font-weight: 2px;
+}
