@@ -7,7 +7,7 @@ Ainda nesse projeto, vamos encontrar uma introdução aos conceitos fundamentais
 
 Acabei fazendo a responsividade do projeto, para que ficasse um pouco mais completo. Por fim, o deploy foi feito na plataforma da Vercel, como visto no link abaixo:
 
-link vercel: 
+link vercel: https://projeto-organo-thiagoalmeida1905.vercel.app/
 
 O principal objetivo do projeto era treinar e colocar em pratica os conceitos do React, apenas. 
 
